@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Dropdown2
-nav_order: 5
-parent: dropdown1
+nav_order: 1
+parent: Dropdown1
 has_children: true
 ---
 
