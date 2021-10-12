@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dropdown1 index
+title: Dropdown1
 nav_order: 1
 parent: Synthesis
 has_children: true
