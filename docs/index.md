@@ -13,7 +13,7 @@ The associated file `index.md` contains a YAML front matter to indicate the layo
 
 The `head.html` file from the original template has been modified in `/docs/_includes` to include MathJax, so you can write math using latex format. Here are some examples:
 
-Math equation using MathJax: $$5+5$$
+A Math equation using MathJax: $$5+5$$
 
 $$
 \begin{align*}
