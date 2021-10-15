@@ -6,5 +6,6 @@ parent: Synthesis
 ---
 
 # This is a test page
+This is an image
 
 ![has_children](/image/has_children.png)
