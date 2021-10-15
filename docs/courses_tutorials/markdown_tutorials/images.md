@@ -6,4 +6,4 @@ parent: Markdown Tutorials
 grand_parent: Courses and Tutorials
 ---
 
-#Adding Images to Markdown Files
+# Adding Images to Markdown Files
