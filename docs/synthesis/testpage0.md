@@ -8,4 +8,4 @@ parent: Synthesis
 # This is a test page
 This is an image:
 
-![has_children](/images/has_children.png | width = 100)
+![has_children](/images/has_children.png width="250")
