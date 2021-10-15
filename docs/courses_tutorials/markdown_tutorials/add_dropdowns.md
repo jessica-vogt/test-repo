@@ -3,6 +3,7 @@ layout: default
 title: Adding Dropdown Menus
 nav_order: 2
 parent: Markdown Tutorials
+grand_parent: Courses and Tutorials
 ---
 
 ## Adding Dropdown Menus to Projects 
