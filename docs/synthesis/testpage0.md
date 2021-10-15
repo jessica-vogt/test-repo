@@ -9,3 +9,5 @@ parent: Synthesis
 This is an image:
 
 ![has_children](/images/has_children.png | width=250)
+
+<img src="/images/has_children.png" width="250">
