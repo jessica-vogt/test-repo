@@ -33,7 +33,11 @@ Here, I've added the grand_parent attribute to this page we're on (Adding Dropdo
 
 ![grand_parent](/images/add_dropdowns/grand_parent.png){:width="350px"}
 
-Then I added the has_children attribute to the Markdown Tutorials file, which is the parent of the grandchild. 
+Then I added the has_children attribute to the Markdown Tutorials index file, which is the parent of the grandchild. 
 
 ![child_has_children](/images/add_dropdowns/child_has_children.png){:width="350px"}
+
+Now, your dropdown menus should be nested like so:
+
+![nested](/images/add_dropdowns/nested.png){:width="250px"}
 
