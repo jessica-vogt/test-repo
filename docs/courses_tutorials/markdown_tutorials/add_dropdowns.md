@@ -2,7 +2,7 @@
 layout: default
 title: Adding Dropdown Menus
 nav_order: 2
-parent: Synthesis
+parent: Markdown Tutorials
 ---
 
 ## Adding Dropdown Menus to Projects 
