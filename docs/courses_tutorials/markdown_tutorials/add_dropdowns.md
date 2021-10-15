@@ -23,12 +23,17 @@ We still need to add the parent attributes to the children. Open a markdown file
 
 ![parent](/images/add_dropdowns/parent.png){:width="350px"}
 
+## Nested Dropdown Menus 
+
 You can also create dropdown menus within dropdown menus by adding a grand_parent attribute to the grand child, and adding a has_children attribute to the child. 
 
-Here, I've added the grand_parent attribute to this page we're on (Adding Dropdown Menus).
+For this example, Courses and Tutorials is the grandparent, Markdown Tutorials is the child, and Adding Dropdown Menus will be the grandchild. We will be adding the has_children attribute to the Markdown Tutorials index.md, and the grand_parent attribute to the Adding Dropdown Menus file. 
+
+Here, I've added the grand_parent attribute to this page we're on (Adding Dropdown Menus). Since the initial dropdown menu was Courses and Tutorials, we will enter that as the title for the grand_parent attribute. 
+
 ![grand_parent](/images/add_dropdowns/grand_parent.png){:width="350px"}
 
-Then I added the has_children attribute to the parent file, which for this example is the Markdown Tutorials file.
+Then I added the has_children attribute to the Markdown Tutorials file, which is the parent of the grandchild. 
 
 ![child_has_children](/images/add_dropdowns/child_has_children.png){:width="350px"}
 
