@@ -17,6 +17,8 @@ You will first need to add the following has_children attribute to your parent p
 
 ![has_children](/images/has_children.png){:width="350px"}
 
-Now that we've given "Courses and Tutorials" the has_children attribute and set it to true, a carrot (^) is displayed beside it. However, when you click on the carrot, there's nothing there. We still need to add the parent attributes to the children. Open the markdown file you wish to be contained within the dropdown menu, and add the parent attribute. 
+Now that we've given "Courses and Tutorials" the has_children attribute and set it to true, a carrot (^) is displayed beside it. However, when you click on the carrot, there's nothing there. We still need to add the parent attributes to the children. Open the markdown file you wish to be contained within the dropdown menu, and add the parent attribute. Check the title attribute of the parent page to make sure you are attaching the correct page. 
 
 ![parent](/images/parent.png){:width="350px"}
+
+You can also create dropdown menus within dropdown menus by adding a grand_parent attribute to the grand child, and adding a has_children attribute to the the child. 
