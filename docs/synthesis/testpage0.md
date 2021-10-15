@@ -1,12 +1,9 @@
 ---
 layout: default
-title: Test Page 0
+title: Adding Dropdown Menus
 nav_order: 2
 parent: Synthesis
 ---
-
-# This is a test page
-
 
 ## Adding Dropdown Menus to Projects 
 Dropdown menus are a helpful way of organizing information. Here, on the Athena Website, we have several dropdown menus including "Courses and Tutorials" which will serve as the example for this tutorial. 
@@ -17,7 +14,11 @@ You will first need to add the following has_children attribute to your parent p
 
 ![has_children](/images/has_children.png){:width="350px"}
 
-Now that we've given "Courses and Tutorials" the has_children attribute and set it to true, a carrot (^) is displayed beside it. However, when you click on the carrot, there's nothing there. We still need to add the parent attributes to the children. Open the markdown file you wish to be contained within the dropdown menu, and add the parent attribute. Check the title attribute of the parent page to make sure you are attaching the correct page. 
+Now that we've given "Courses and Tutorials" index the has_children attribute and set it to true, a carrot (^) is displayed beside it. However, when you click on the carrot, there's nothing there. 
+
+![courses_and_materials](/images/courses.png){:width="100px"}
+
+We still need to add the parent attributes to the children. Open a markdown file you wish to be contained within the dropdown menu, and add the parent attribute. Check the title attribute of the parent page (in this case, the Courses and Tutorials index.md file) to make sure you are attaching the correct page. 
 
 ![parent](/images/parent.png){:width="350px"}
 
