@@ -6,7 +6,7 @@ parent: Markdown Tutorials
 grand_parent: Courses and Tutorials
 ---
 
-## Adding Dropdown Menus to Projects 
+# Adding Dropdown Menus to Projects 
 Dropdown menus are a helpful way of organizing information. Here, on the Athena Website, we have several dropdown menus including "Courses and Tutorials" which will serve as the example for this tutorial. 
 
 On Github, we have stored a "Courses and Tutorials" folder that contains the index mark down file (index.md) and the markdown files for each of the child pages. 
