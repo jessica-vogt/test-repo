@@ -41,7 +41,9 @@ You will use the following syntax to add your image into the markdown file:
 
 "alt_text" is what will show up on the webpage should the image fail. The file path provides the location of the PNG. 
 
-If you want to include an image of a puppy in a folder named animals, your file path would be /images/animals/puppy.png
+If you want to include an image of a puppy in a folder named animals, your alt text might be "puppy" and your file path would be /images/animals/puppy.png
 
+However, you may want to resize the PNG you are using. In that case, you would use the following syntax, and would have to play around with the pixels to find a size that works for you. The image height will adjust as you adjust the image width.
 
+![adjust_width](/images/add_images/image_syntax.png){:width="200px"}
 
