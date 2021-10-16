@@ -37,7 +37,11 @@ Make sure you have named your PNGs descriptively, and then drag and drop them in
 
 You will use the following syntax to add your image into the markdown file:
 
+![image_syntax](/images/add_images/image_syntax.png){:width="200px"}
+
+"alt_text" is what will show up on the webpage should the image fail. The file path provides the location of the PNG. 
+
+If you want to include an image of a puppy in a folder named animals, your file path would be /images/animals/puppy.png
 
 
-![add_images](/images/add_images/add_images.png)
 
