@@ -13,7 +13,7 @@ The process of adding images to markdown files is fairly simple. But before you 
 
 To do that, navigate to the same directory your markdown file is located in, and click on "Add file", and create a new file.
 
-![create_file](/images/add_images/new_file.png){:width="200px"}
+![create_file](/images/add_images/new_file.png){:width="300px"}
 
 Name your file "images" and add a forward slash (/) at the end so that github understands you're adding a folder.
 
@@ -37,7 +37,7 @@ Make sure you have named your PNGs descriptively, and then drag and drop them in
 
 You will use the following syntax to add your image into the markdown file:
 
-![image_syntax](/images/add_images/image_syntax.png){:width="200px"}
+![image_syntax](/images/add_images/image_syntax.png){:width="400px"}
 
 "alt_text" is what will show up on the webpage should the image fail. The file path provides the location of the PNG. 
 
@@ -45,5 +45,5 @@ If you want to include an image of a puppy in a folder named animals, your alt t
 
 However, you may want to resize the PNG you are using. In that case, you would use the following syntax, and would have to play around with the pixels to find a size that works for you. The image height will adjust as you adjust the image width.
 
-![adjust_width](/images/add_images/image_syntax.png){:width="200px"}
+![adjust_width](/images/add_images/image_syntax.png){:width="400px"}
 
