@@ -24,3 +24,20 @@ Add a README.md to your images folder breifly stating where the images stored in
 ![make_readme](/images/add_images/make_readme.png){:width="500px"}
 
 Commit the changes and navigate back to the images folder you just created.
+
+Chances are you are going to have multiple markdown pages in the same directory that will all be implementing pngs. Inside the images folder we will create a different folder for each markdown file that will be using PNGs. 
+
+Name the new folder after the markdown file, and add the README.md with a brief statement about where the images will be implemented.
+
+I have named this markdown file I am currently using as "add_images" so I will name my images folder for this page "add_images".
+
+![add_images](/images/add_images/add_images.png){:width="500px"}
+
+Make sure you have named your PNGs descriptively, and then drag and drop them into your folder. Commit the changes.
+
+You will use the following syntax to add your image into the markdown file:
+
+
+
+![add_images](/images/add_images/add_images.png)
+
