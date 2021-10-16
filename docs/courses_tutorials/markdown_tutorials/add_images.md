@@ -43,6 +43,8 @@ You will use the following syntax to add your image into the markdown file:
 
 If you want to include an image of a puppy in a folder named animals, your alt text might be "puppy" and your file path would be /images/animals/puppy.png
 
+![puppy_example](/images/add_images/puppy_example.png){:width="400px"}
+
 However, you may want to resize the PNG you are using. In that case, you would use the following syntax, and would have to play around with the pixels to find a size that works for you. The image height will adjust as you adjust the image width.
 
 ![adjust_width](/images/add_images/adjust_width.png){:width="400px"}
